@@ -41,9 +41,6 @@ Here are some ideas to get you started:
 - :zap: In my free time, I learn new technologies from YouTube and practice penetration testing
 - :mailbox: How to reach me: [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bhavyasura12@gmail.com) &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Bhavya-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bhavya-sura/) 
 
-- https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-
----
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
