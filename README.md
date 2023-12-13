@@ -38,11 +38,11 @@ Here are some ideas to get you started:
 ### 👨‍💻: About Me :
 
 - 👨‍🎓: I’m a Student pursuing Computer Engineering at K.J.Somaiya College of Engineering having interests Web Development, DevOps and Cyber Security.
-- :zap: In my free time, I learn new technologies from YouTube and practice penetration testing
+- ⚡: In my free time, I learn new technologies from YouTube and practice penetration testing
 - 📬: How to reach me: [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bhavyasura12@gmail.com) &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Bhavya-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bhavya-sura/) 
 
 
-### :hammer_and_wrench: Languages and Tools :
+### ⚒️: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
@@ -60,8 +60,8 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Baboon12&theme=dark&background=000000)]
+### 🔥: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Baboon12&theme=dark&background=000000)] (https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baboon12&layout=compact&theme=vision-friendly-dark)]
 
